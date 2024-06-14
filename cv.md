@@ -44,3 +44,8 @@ function getCount(str) {
 * [**Front-End Self-Paced Online Program from EPAM Campus**](https://training.epam.com/en/training/3474)
 * [**Codewars**](https://www.codewars.com/users/Vaverka123)
 ---
+##Languages
+* English **C1**
+* German **B2**
+* Polish **A2**
+* Belarusian, Russian **Native Speaker**
