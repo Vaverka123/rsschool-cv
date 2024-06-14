@@ -7,6 +7,7 @@
 * [**LinkedIn**](https://www.linkedin.com/in/vera-maslava-589765124/)
 * [**GitHub**](https://github.com/Vaverka123)
 * **Location** Poland
+
 ---
 ## Summary
 My diverse experience in Human Resources and HoReCa industry has given me excellent soft skills, including open-mindedness, reliability, positivity and determination. I aspire to pursue a career as a professional web developer. I have already completed several training programs and remain committed to continuous learning and growth in this field.
@@ -16,6 +17,7 @@ My diverse experience in Human Resources and HoReCa industry has given me excell
 * JavaScript basics
 * VS Code
 * Git, GitHub
+
 ---
 ## Code Sample
 [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
@@ -43,6 +45,7 @@ function getCount(str) {
 * [**JavaScript/Front-End Course from RSScholl**](https://training.epam.com/en/training/3474)
 * [**Front-End Self-Paced Online Program from EPAM Campus**](https://training.epam.com/en/training/3474)
 * [**Codewars**](https://www.codewars.com/users/Vaverka123)
+
 ---
 ## Languages
 * English **C1**
