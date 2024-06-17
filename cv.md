@@ -11,6 +11,7 @@
 ---
 ## Summary
 My diverse experience in Human Resources and HoReCa industry has given me excellent soft skills, including open-mindedness, reliability, positivity and determination. I aspire to pursue a career as a professional web developer. I have already completed several training programs and remain committed to continuous learning and growth in this field.
+
 ---
 ## Skills
 * HTML5, CSS3
@@ -20,8 +21,7 @@ My diverse experience in Human Resources and HoReCa industry has given me excell
 
 ---
 ## Code Sample
-[Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
-DESCRIPTION:
+[Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3):
 Return the number (count) of vowels in the given string.
 We will consider a, e, i, o, u as vowels for this Kata (but not y).
 The input string will only consist of lower case letters and/or spaces.
