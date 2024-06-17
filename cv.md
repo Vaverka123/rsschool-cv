@@ -42,7 +42,7 @@ function getCount(str) {
 ```
 ---
 ## Courses
-* [**JavaScript/Front-End Course from RSScholl**](https://training.epam.com/en/training/3474)
+* [**JavaScript/Front-End Course from RSSchool**](https://training.epam.com/en/training/3474)
 * [**Front-End Self-Paced Online Program from EPAM Campus**](https://training.epam.com/en/training/3474)
 * [**Codewars**](https://www.codewars.com/users/Vaverka123)
 
