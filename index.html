@@ -9,24 +9,48 @@
 <body>
     <header class="header">
         <div class="container">
-            <nav class="nav">
+            <nav>
                 <ul class="nav-list">
-                  <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
-                  <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
-                  <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
-                  <li class="nav-item"><a href="#code-sample" class="nav-link">Code Sample</a></li>
-                  <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
-                  <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#contacts" >
+                        Contacts
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#summary">
+                        Summary</a></li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#skills">
+                        Skills
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#code-sample">
+                        Code Sample
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#courses">
+                        Courses
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#languages">
+                        Languages
+                    </a>
+                  </li>
                 </ul>
-              </nav>
+            </nav>
         </div>
     </header>
     <main class="main">
         <div class="container main-container">
-            <section class="section" id="profile">
-                <img src="./assets/img/photo1.png" alt="profile photo">
-                <h1 class="section-title">Vera Maslava</h1>
-                <p>Frontend Developer</p>
+            <section class="profile" id="profile">
+                <img class="photo" src="./assets/img/photo53-modified.png" alt="profile photo">
+                <div class="badge">
+                    <h1 class="main-title">Vera Maslava</h1>
+                    <h3 class="vacancy">Frontend Developer</h3>
+                </div>
             </section>
             <section class="section" id="contacts">
                 <h2 class="section-title">Contacts</h2>
@@ -53,25 +77,20 @@
             </section>
             <section class="section" id="code-sample">
                 <h2 class="section-title">Code Sample</h2>
-                <p>[Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3):
-                    Return the number (count) of vowels in the given string.
-                    We will consider a, e, i, o, u as vowels for this Kata (but not y).
-                    The input string will only consist of lower case letters and/or spaces.
-                    JavaScript:</p>
                 <pre>
-                    <code>function getCount(str) {
-                        const vowels = ['a', 'e', 'i', 'o', 'u'];
-                        let count = 0;
-                    
-                        for (let char of str) {
-                        if (vowels.includes(char)) {
-                            count++;
-                        }
-                        }
-                    
-                        return count;
-                    }
-                    </code>
+<code>
+function getCount(str) {
+    const vowels = ['a', 'e', 'i', 'o', 'u'];
+    let count = 0;
+
+    for (let char of str) {
+        if (vowels.includes(char)) {
+            count++;
+        }
+    }
+    return count;
+}       
+</code>
                 </pre>
             </section>
             <section class="section" id="courses">
@@ -94,7 +113,15 @@
         </div>
     </main>
     <footer class="footer">
-        <div class="container"></div>
+        <div class="container">
+            <div class="footer-content">
+                <a class="nav-link" href="https://github.com/Vaverka123">
+                    vaverka123
+                </a>
+                 2024 
+                <a href="https://rs.school/">RSSchool</a>
+            </div>
+        </div>
     </footer>
 </body>
 </html>
