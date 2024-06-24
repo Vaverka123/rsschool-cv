@@ -104,15 +104,15 @@ body {
 }
 
 .section-title {
-    font-weight: 700;
+    position: relative;
+    column-gap: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-transform: uppercase;
+    font-weight: 700;
     letter-spacing: 5px;
     color: var(--accent-color);
-    position: relative;
-    display: flex;
-    align-items: center;
-    column-gap: 5px;
-    justify-content: center;
 }
 
 .divider {
@@ -129,6 +129,7 @@ body {
     width: 100%;
     background-color: var(--primary-color);
     color: var(--primary-text-color);
+    box-shadow:  0 2px 6px rgba(0,0,0,0.2);
 }
 
 .badge {
@@ -143,6 +144,8 @@ body {
     aspect-ratio: 1;
     max-width: 250px;
     max-height: fit-content;
+    border-radius: 50%;
+    box-shadow: 1px 3px 10px 0 rgba(0, 0, 0, .8);
 }
 
 .footer {
