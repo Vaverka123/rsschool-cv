@@ -89,7 +89,7 @@ body {
 }
 
 .main {
-    flex: 1;
+    flex: grow;
 }
 
 .main-container {
@@ -129,7 +129,7 @@ body {
 
 .profile {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     padding: 30px 0;
     width: 100%;
