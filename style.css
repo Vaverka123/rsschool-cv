@@ -89,7 +89,7 @@ body {
 }
 
 .main {
-    flex: grow;
+    flex: 1;
 }
 
 .main-container {
